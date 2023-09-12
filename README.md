@@ -1,9 +1,9 @@
-## Probem statement:
+## Problem statement:
 
 After the success of Tap Portable Bluetooth Speaker, Amazon is about to launch a new version in the market. To understand what features customers liked, Amazon did a focus group discussion with some selected customers - the audio in the discussions has been recorded.
 The reviews that the panelists gave to Tap is what interests Amazon.
 
-As the data scientist, the task is to convert the given audio file to text, assess which features of the bluetooth speaker are being talked about in the audio reviews.  We can use this as our feature list, and assess which of these are present in the audio reviews.
+The task is to convert the given audio file to text, assess which features of the bluetooth speaker are being talked about in the audio reviews.  
 
 
 Steps -
